@@ -1,1 +1,1 @@
-Esto es un readme
+Resumen de lo aprendido para el certificado de **AWS Practitioner**.
