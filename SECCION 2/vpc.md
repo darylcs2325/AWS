@@ -36,4 +36,5 @@ La primera área, es la **subred pública**, que tendrá acceso a internet para 
 La segunda área, llamada subred privada, es más como una oficina cerrrada donde guardas información importante y sensible. Aquí, decides que los equipos solo necesitarán hablar entre ellos, sin acceso directo a internet. En caso, que se requiere utilizar internet se debería utilizar el **NAT Gateway**.
 
 Finalmente, quieres tener **conectividad** entre la VPC de AWS y la infraestructura física existente en tu empresa. Para hacer esto, estableces una conexión segura mediante VPN o una red directa con tu VPC de AWS
-![alt text](../src/image.png)
+
+![Diagrama VPC](../src/image.png)
