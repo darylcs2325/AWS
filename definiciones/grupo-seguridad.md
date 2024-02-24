@@ -4,6 +4,15 @@ Un grupo de seguridad es como un firewall virtual para controlar el tráfico ent
 
 Permite especificar qué protocolos (HTTP, HTTPS, SSH, ...), puertos y los IP que pueden acceder a las instancias.
 
+**Puertos importantes**
+
+* **22**: *SSH* (Secure Shell)- Logear en instancias Linux
+* **21**: *FTP* (File Transfer Protocol) - Subir archivos compartidos
+* **22**: *SFTP* (Secure File Transfer Protocol) - Subir archivos con SSH
+* **80**: *HTTP* - Acceso a webs sin seguridad
+* **443**: *HTTPS* - Acceso a webs seguras
+* **3389**: *RDP* (Remote Desktop Protocol) - Logear en una instancia Windows
+
 ## Reglas de seguridad
 Las reglas de seguridad controlan el tra´fico entrante que puede llegar a las instancias asociadas al grupo de seguridad.
 
