@@ -12,3 +12,13 @@ Para poder utilizar EC2 desde una máquina local, tendremos que acceder mediante
 
 ![Proceso de EC2](../src/procEC2.png)
 
+## Acceso a la instancia desde AWS-CLI
+
+Para acceder a la instancia de forma remota podemos hacerlo con PuTTY, en caso de tener Windows o también por el mismo PowerShell. Creamos una instancia de prueba que será eliminado después.
+
+Una vez seguido los pasos anteriores tendremos nuestro par clave, la clave privada lo habremos descargado y guardado con esa nos podemos autenticar en la instancia.
+
+![alt text](../src/ec2-cli.png)
+
+>[!TIP]
+Es posible que tenga problemas a la hora de ingresar a la instancia, seguir las siguientes instrucciones de este [repositorio](https://gist.github.com/jaskiratr/cfacb332bfdff2f63f535db7efb6df93).
