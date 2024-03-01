@@ -59,3 +59,10 @@ Amazon EBS es recomendable cuando los datos deben estar accesibles rápidamente 
 >[!NOTE]
 En EBS no se almacena gran cantidad de metadatos, ya que se basa en almacenamiento en bloques, donde sí se almacena información de metadatos es en los almacenamientos en objetos, Amazon S3.
 
+## Procedimiento para crear un volumen en Amazon EBS
+
+![alt text](../src/crear-ebs.png)
+
+## Procedimiento para crear Snapshot
+
+![alt text](../src/proc-snapshot.png)
