@@ -20,5 +20,10 @@ Una vez seguido los pasos anteriores tendremos nuestro par clave, la clave priva
 
 ![alt text](../src/ec2-cli.png)
 
+Si se inicia la sesión a la instancia desde SSH, podemos encontrar la archivo creado
+
+![alt text](../src/directorio-ami.png)
+
 >[!TIP]
 Es posible que tenga problemas a la hora de ingresar a la instancia, seguir las siguientes instrucciones de este [repositorio](https://gist.github.com/jaskiratr/cfacb332bfdff2f63f535db7efb6df93).
+
