@@ -1,0 +1,3 @@
+# Servidor Web
+
+Para poder acceder a una página web es necesario y obligatorio el uso de un **Servidor Web**. Sin este no es posible poder visualar ni interactuar con alguna página web ya sea por internet o de forma local. En producción uno de los servidores webs más utilizados son: **Apache HTTP Server**, **Ngnix**, **Microsoft Internet Information Services (IIS)**, entre otros. También hay forma más rápida de hacerlo con python utilizando la librería ``http.server`` o cuando realiza ejecutas en *Visual Code* con **Live Server** estos crean un servidor web local y de esta manera puede hacer las pruebas para el desarrollo de una página web.
